@@ -1,0 +1,2 @@
+COLI_HLP11_09132020_1405_4_resaved_infarct_auto_removesmall_matched.dcm
+ROI collection exists in a different session
